@@ -1,6 +1,5 @@
 # -NOVA-Pharmacy-DBMS-System-
  Designed a relational database using ER modeling and normalization. Implemented core features using SQL and PL/SQL to manage patients, prescriptions, and contracts.
- Pharmacy DBMS — Schema v2.3
 A production-aware Oracle PL/SQL schema for a Pharmacy Database Management System. This repository contains the DDL and PL/SQL code that implements secure user authentication, audit logging, inventory management, prescription processing, insurance claims, and safety features such as drug-interaction checks, automatic reorders, concurrency protections, and data integrity constraints.
 
 Contents
